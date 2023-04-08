@@ -1,0 +1,339 @@
+html  {
+		box-sizing: border-box;
+		}
+*, ::before, ::after {
+		box-sizing: inherit;
+		}
+	
+/*----------------------header--------------------------*/		
+header  {
+		
+		/*background-color: #FFF;*/
+		
+		background-position: top center;
+		color: khaki;
+		margin-bottom: 0;
+		
+		text-align: center;
+		}
+		
+img .tobelerone  {
+		width: 20;
+		height: 10;
+		margin: 0;		
+		}
+		
+header a {
+		text-decoration: none;
+		}
+		
+header a:visited {
+		color: purple;
+		}
+		
+header a:active   {
+		color: red;
+		}		
+		
+		
+		
+.shortcuts ul{
+	
+		list-style-type: none;
+		padding: 5px;
+		text-align: left;
+	
+	}
+		
+.shortcuts a {
+		text-decoration: none;
+		padding:5px;
+		color: blue;
+		font-size: 1.1em;
+				
+			}	
+.shortcuts a:visited  {
+		color: purple;
+		}	
+.shortcuts a:active  {
+		color: red;
+		}	
+		
+.shortcuts ul a:hover  {
+		text-decoration: underline;
+		}		
+		
+/*---------------------------body-----------------------*/
+
+		
+body{
+		background-color: #FFF;
+		background-image: url(../pics/trein-tasch_1920.jpg);
+
+
+/*url(../pics/diepe-sneeuw-matterhorn_1920.jpg);*/
+		margin: 0;
+		padding: 0;
+		font-size: 16px;
+		font-family: font-family: 'Roboto', sans-serif;
+		line-height: 1.5;
+	}
+		
+h1     {
+		text-align: center;
+		font-size: 100px;
+		line-height: 1;}	
+
+.item-detail 		h3 + p	{ 
+		font-style: italic;}
+
+h2 	{
+		margin: 0;
+		font-size: 1.5em;
+		text-align: center;}
+		
+h1, h2 {
+			font-family: font-family: 'Oswald', sans-serif;
+			font-weight: 400;
+			margin:0;}
+			
+a:hover {
+		text-decoration: underline;
+		color: pink;
+		}
+		
+
+			
+.splitser >  section{
+		border-bottom: 1px dashed #343434;
+		padding: 25px 0; }
+
+.item-detail  section {
+		border-bottom: none;}
+
+img{
+		width: 300px;
+		margin: 2px;}
+		
+a 		{
+		color:  darkblue;
+		}
+
+a:hover {
+		text-decoration:underline;
+		}
+.item        {
+		overflow: hidden;
+		
+		}
+
+.item h2 		{
+		margin-top: 0;
+		}
+		
+		
+.item img  {
+		float: left;
+		margin-right: 20px;
+		
+		}		
+	
+
+.inhoud-wrap {
+		max-width: 800px;
+		width: 85%;
+		margin: 0 auto;
+		padding: 0 0;
+		}
+		
+.item-detail h2 + p 		{  
+		font-style: italic;}
+		
+.item-detail h2 ~p  {
+		margin: 0;}
+		
+/* ---------------ligging-------------------*/
+.plaats { 
+		background-color:rgba(227, 242, 253, 0.7);
+		
+		}
+
+.plaats a {
+		/color:darkblue;
+		padding: 2px;
+		text-decoration: none;}
+		
+.plaats a:hover {
+		text-decoration: underline;
+		color: pink;}
+
+.plaats a:visited {
+		color: purple;}
+		
+.plaats a:active {
+		color: red;}
+		
+.plaats img:hover {
+		width: 100%;
+		height: 100%;
+		-webkit-transition: width 1s, height 2s; /* Apple Safari versies 3.1 to 6.0 */
+		transition: width 1s, height 2s;
+	
+	}
+
+/*-----------------berg---------------------*/
+
+.matterhorn  	{
+		background-color:rgba(227, 242, 253, 0.7);
+		/*font-size: 1.5em;*/
+		}
+		
+		
+		
+		
+/*----------------Zermatt------------------*/		.
+
+
+ 	{  } 			/*als ik deze weghaal werkt de class niet meer ??*/
+.zermatt  {	 
+			background-color: rgba(227, 242, 253, 0.7);				
+			background-size: cover;				
+			padding-bottom: 20px;
+				
+			}
+			
+.zermatt a:hover{
+			filter: invert(0.20);
+			}
+
+/*-------------klimmen-----------------------*/
+
+.klimmen {
+			background-color: rgba(227, 242, 253, 0.7);
+			}
+
+
+
+/*---------------sporten--------------------*/
+
+.sporten {
+			background-color: rgba(227, 242, 253, 0.7);
+			 
+			}
+
+.sporten a {
+			color: darkblue;
+			text-decoration: none;
+			}
+.sporten a:hover {
+			text-decoration: underline;
+			color: pink;}
+
+.sporten a:visited {
+			color: purple;
+			}
+.sporten a:active {
+			color: red;}  
+
+/*------------video---------------------------*/
+
+.video { 
+		background-color:rgba(227, 242, 253, 0.7);
+		
+		}
+
+
+/*------------footer---------------------------*/
+footer {
+		background: red; 
+  		background: -webkit-radial-gradient(circle, red, yellow, green);
+  		background: -o-radial-gradient(circle, red, yellow, green);
+  		background: -moz-radial-gradient(circle, red, yellow, green); 
+  		background: radial-gradient(circle, red, yellow, green); 
+		color: #F7FFF7;
+		padding-bottom: 20px;
+		text-align: center;
+		margin-bottom: 100px;
+				}
+
+
+footer h2 {
+		font-size: 1.7em;
+		}
+ 
+ 
+		
+.contact-lijst ul{
+		
+		list-style-type: none;
+		display: flex;
+		padding: 0;
+		justify-content: center;
+	
+	}
+		
+.contact-lijst a {
+		font-size: 1.5em;		
+		padding:15px;
+		display: inline-block;
+		text-decoration: none;
+			}
+			
+footer a:hover  {
+		text-decoration: underline;
+		}
+		
+footer a:active {
+		color: red;
+		}		
+		
+footer a:visited {
+		color: purple;}
+		
+		/*----------------responsive ------------------------------*/
+		@media screen and (min-width:800px){
+		.item  img  {
+		float: left;
+		margin-right: 20px;
+		
+		}
+		
+img    {
+		padding-left: 50px;}
+		
+.part-one {
+		display: grid;
+		grid-template-columns: 2fr 2fr;
+		column-gap: 20px;
+		padding: 5px;
+}
+.contact-lijst ul{
+		display: flex;
+		justify-content: center;}
+		
+.shortcuts a:link {
+		display:inline-block;
+		text-decoration: none;
+		}
+			
+		}
+		
+	@media screen and (max-width: 749px){
+		h1		{font-size: 60px;
+		line-height: 0.9;
+		margin-bottom: 20px;
+		}
+		h2		{line-height: 1;
+		}
+.contact-lijst a {
+		padding: 5px;
+		font-size: 17px;	}
+		
+.part-one  {
+
+		margin-left: 5%;
+		margin-right: 5%;}
+	
+		}
+		
+		
