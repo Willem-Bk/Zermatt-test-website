@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>De matterhorn</title>       
+    <link rel="stylesheet"  href="css/style.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+    
+   
+</head>
+  
+<body>
+  
+<main>
+      <!-- ***********************  de bekendste berg  *********************** -->
+ <div class="inhoud-wrap item-specs splitser item-detail">    
+  
+<header>
+        <h1>De Matterhorn</h1>
+        <h2>De bekendste berg </h2>
+        <p>De Matterhorn is bekend van <a href="https://nl.wikipedia.org/wiki/Toblerone" target="_blank">Tobelerone </a> en van vele reclame campagnes.
+		  
+    <p>Wil jij de Matterhorn beklimmen? De berg is hét beeldmerk van Zwitserland. Misschien wel van de Alpen. <br>
+    De markante steile berg bij Zermatt biedt bergbeklimmers wat je ervan verwacht.<br> 
+    Hou je van een uitdaging?  Kies dan voor een uitdaging en neem een bijzondere route.<br>
+    Ga omhoog via de Italiaanse Cresta Leone (Leeuwengraat) en daal af aan de Zwitserse zijde via de Hörnligraad. 
+   .</p>
+<p>Ben je geen bergbeklimmer?<br>
+ Ga naar Zermatt om van het uitzicht te genieten of tal van andere sporten daar te beoefenen.</p>
+ 
+ </header>
+
+<div class="shortcuts">
+ <ul>
+    <li><a  href="#ligging">de ligging</a></li>
+    <li><a  href="#berg">de berg</a></li>
+    <li><a  href="#zermatt">Zermatt</a></li>
+    <li><a  href="#klimmen">bergbeklimmen </a></li>
+    <li><a  href="#sporten">sporten </a></li>
+    <li><a  href="#video">video</a></li>
+    </ul>
+</div> <!-- inhoud-wrap -->
+</div>
+      <!-- ********************  ligging  ********************* -->
+      
+<div class="inhoud-wrap splitser">      
+<section class="plaats item">
+<a id="ligging"></a>
+		  <h2>De ligging </h2>
+		  <section class="part-one">		  
+		<img src="pics/map-zermatt-600.png" alt="matterhorn met snowboarder">
+        
+          
+          
+          <p>De Matterhorn heeft een piramidale vorm met vier zijden die bijna tegenover de vier windstreken liggen. 
+          <p>Drie ervan (noord, oost en west) liggen aan de Zwitserse kant van de grens en de waterscheiding (Mattertal vallei) </p>
+         <p>Aan de (zuidelijke) Italiaanse kant van de grens (Valtournenche vallei) kijkt de  noordzijde uit op de Ober Gabelhorn (op 7 km afstand) over de Zmutt-gletsjer en het dal (boven Zermatt), </p>
+         <p>De oostzijde kijkt uit op het Gorner-gletsjersysteem tussen de Gornergrat en de Monte Rosa (respectievelijk op 10 en 17 km afstand) over de Theodulpas, </p>
+          <p>De westkant kijkt uit over het bovenste bekken van de Zmutt-gletsjer 
+          <p>Tussen de Dent Blanche en de Dent d'Hérens (op respectievelijk 7 en 4 km afstand) en de zuidkant ligt voor het vakantieoord <a href="https://www.cervinia.it/" target="_blanc" >Breuil-Cervinia</a> en kijkt uit over een groot deel van de Valtournenche. </p>
+          <p>De Matterhorn vormt geen perfecte vierkante piramide, aangezien de noord- en zuidzijde breder zijn dan de west- en oostzijde. 
+          Bovendien ontmoeten deze laatste zijden elkaar niet op de top, maar zijn ze verbonden door een 100 meter lange horizontale west-oost bergkam tussen de noord- en zuidzijde.
+   		</p>
+         
+</section><p>&nbsp; bron Wikipedia</p>
+
+</div>    
+
+  <!-- *******************berg*************************** -->
+  
+ <div class="inhoud-wrap splitser">	
+<section class="matterhorn item">
+<a id="berg"></a>
+	  <h2>De berg</h2>
+	   <section class="part-one">
+	   <img src="pics/diepe-sneeuw-matterhorn_600.jpg" alt="matterhorn met snowboarder">
+        
+
+        <p>De wanden van de Matterhorn zijn steil, en slechts kleine sneeuw- en ijsplekken blijven erop liggen; regelmatige lawines sturen de sneeuw naar beneden om zich op te hopen op de gletsjers aan de voet van elke wand</p>
+        <p>De  Tiefmattengletscher is de grootste gletcher en ligt in het westen.</p>
+        <p> De Zmutt-gletsjer, en de Matterhorn-gletsjer in het noorden zijn kleinere gletsjers en  liggen aan de voet van de zuidwand (de Lower Matterhorn Glacier) en de oostwand.
+        In dit gebied valt de grenzend tussen Zwitserland en Italië samen met de voornaamste waterscheiding van de Alpen
+        die het afwateringsgebied van de Rhône in het noorden (Middellandse Zee) scheidt van dat van de Po in het zuiden (Adriatische Zee).</p> 
+        <p>De noordzijde wordt afwaterd door de Zmuttbach (west- en noordzijde)  en de Gornera door de Furggbach (oostzijde), zijrivieren van de Rhône door de (Matter)Vispa.[25] </p>
+        <p>De Marmore zorgt voor de afwatering van de zuidzijde een zijrivier van de Po door de Dora Baltea (of Doire baltée). 
+        <p>De Theodulpas, gelegen op de waterscheiding tussen de Matterhorn en de Breithorn, op 3.295 meter, is de gemakkelijkste doorgang tussen de twee valleien en landen. 
+        <p>De iets lager gelegen Furggjoch wordt niet als pas gebruikt, de pas werd tussen 100 v. Chr. en 400 n. Chr. gebruikt als oversteekplaats en handelsroute voor de Romeinen en de geromaniseerde Keltische bevolking Salassi.</p>
+        <p> Het gebied is nu zwaar vergletsjerd en aan de noordzijde bedekt door de Theodulgletsjer.         </p>
+    	   
+</section><p>&nbsp; bron Wikipedia</p>
+</section>
+</div>
+
+<!-- ********************Zermatt************************* -->
+<div class="inhoud-wrap splitser">
+<section class="zermatt item ">
+<a id="zermatt"></a>
+		<h2>Zermatt </h2>
+		<section class="part-one">
+		<a href="https://zermatt.ch" target="_blanc" >
+		  <img src="pics/zermatt_dorp_600.png "  alt="link naar website Zermatt.ch" title="Ga naar de website van Zermatt" ></a>
+		
+		<p>Zermatt, in het kanton Wallis in het zuiden van Zwitserland, is een bergresort dat bekend staat om het skiën, klimmen en wandelen. </p>
+		<p>De stad, op een hoogte van ongeveer 1.600m, ligt onder de iconische, piramidevormige Matterhorn piek.
+        De hoofdstraat, Bahnhofstrasse, is bezaaid met boetiekjes, hotels en restaurants, en heeft ook een levendige après-ski scene. </p>
+      <p>De vele rijke buitenlanders vinden Zermatt een ideaal vacantieoord, en je kan hier dan ook allerlei beroemdheden tegenkomen</p>
+        <p>Op de website van Zermatt kun je een hotel boeken of kijken hoe het gebied eruit ziet.
+        </p>
+       
+</section>   
+<p> &nbsp;bron Wikipedia</p>
+</section>
+ </div>   
+
+
+<!-- *************************klimmen************************ -->
+<div class="inhoud-wrap splitser">
+<section class="klimmen item">
+	<a id="klimmen"></a>
+	<h2>Klimmen</h2>
+	<section class="part-one">
+	<img src="pics/bergbeklimmen-matterhorn-600.png" alt="bergbeklimmers op de Matterhorn">
+	
+	<p> De vier hoofdkammen die de vier wanden van elkaar scheiden zijn de belangrijkste klimroutes. De minst moeilijke technische klim en de gebruikelijke klimroute, de Hörnli-graat (Hörnligrat), ligt tussen de oost- en noordzijde en is gericht op de 
+	Oberrothorn boven Zermatt. Ten westen ervan ligt de Zmuttgrat, tussen de noord- en westwand en gericht op de Wandfluehorn; 
+	<p>Volgens Collomb "is dit de klassieke route naar boven, de langste graat, maar ook de meest onsamenhangende. 	"27] De Lion ridge (Cresta del Leone / Arête du lion),</p>
+	<p> Tussen  de zuid- en westzijde en gericht naar de Dent d'Hérens ligt de Italiaanse normale route en gaat over Pic Tyndall; Collomb zegt hierover: "Een schitterende rotsgraat, 
+	de kortste van de berg, </p>
+	<p>Gedrapeerd met veel vaste touwen,  in vergelijking met de Hörnli. "27] is die collomb een superieure klim</p>
+	<p> De Furggengrat, die de zuidzijde van de oostzijde scheidt is naar de  Kleine Matterhorn gericht . </p>
+	<p>	Volgens Collomb, " is dit de moeilijkste van de bergkammen, de bergkam heeft nog steeds een ontzagwekkende reputatie maar is niet te moeilijk in goede omstandigheden door de indirecte finish"
+	</p>
+	
+</section>     <p>&nbsp; bron Wikipedia</p>
+</section>
+ </div>
+      <!-- ******************  sporten ****************** -->
+      
+<div class="inhoud-wrap splitser item-detail">      
+<section class="sporten item">
+	<a id="sporten"></a>
+	<h2>Sporten</h2>
+	   <section class="part-one">
+        <img src="pics/diepe-sneeuw-matterhorn_600.jpg" alt="matterhorn met snowboarder">
+              
+          <p>Skieen is een van de belangrijkste sporten die in dit gebied wordt uitgeoefend </p>
+          <p> Snowborden is een sport die ook heel veel wordt beoefend en er is een heel snowboardpark op een piste vlakbij de Matterhorn.</p>
+          <p>Bergbeklimmen wordt in de zomer en in de winter veelvuldig gedaan op de Matterhorn</p> 
+           <p>Wandelroutes zijn er heel veel, en een daarvan voert langs de <a href="https://monterosahuette.ch/the-hut/?lang=en" target="_blanc">Monta Rosa Hutte</a> een luxueuse tussenstop tijden de wandeling </p>
+          <p>Curling en schaatsen kunnen op de Ijsbaan in Zermatt worden beoefend, waar een speciale ijsbaan is gemaakt.  </p>
+          <p>Ijsklimmen kan op de bevroren waterval die speciaal hiervoor wordt gebruikt.</p>
+          
+ </section>       
+</section>
+</div>  
+
+<div class="inhoud-wrap splitser">
+ <section class="video">                                           <!-- width 264px -->
+          <!--  <span class="w1140">-->
+		  
+		  <a id="video"</a>
+		  <h2>video zermatt</h2>
+		  <section class="part-one">
+		  <img src="pics/zwitserse vlag.png"   alt="video van het mooie Zermatt"  title="video van het mooie Zermatt" />&nbsp;
+		  Een kennismaking met Zermatt<br />
+		           <!-- oorspronkelijke videoframe is 1280 x 720, om aan 264px breedte te voldoen moeten de -->
+		           <!-- waarden tot 20% worden teruggebracht, dus naar een videoframe van 256 x 144         -->
+		        <video width="256" height="144" controls>    
+                   <source src="videos/Ultimate Responsive Web Design Tutorials for Beginners.mp4" type="video/mp4">
+                </video>
+   			  <p class="hint">&nbsp;&nbsp;U kunt via de afspeelopties van de video overgaan op een volledig scherm.</p>	 
+		    </section>
+		    </section>
+		 
+      </div>     
+     
+
+      <!-- *****************  Footer   ***************** -->
+      
+<footer class="inhoud-wrap splitser">
+		    
+ 	         <h2 >Deel je ervaring! </h2>
+<div class="contact-lijst">        
+		<ul >
+          	<li><a href="mailto:info@wbliek@live.nl">mail mij</a></li>
+          	<li><a href="https://zermatt.ch" target="_blank">Zermatt.ch</a></li>
+          	<li><a href="https://twitter.com/login?lang=nl" target="_blank">Twitter</a></li>
+          	<li><a href="https://www.linkedin.com/uas/login" target="_blank">LinkedIn</a></li>
+          	<li><a href="https://nl-nl.facebook.com/login/" target="_blank">Facebook</a></li>
+        			</ul>
+        			</div>     <!-- inhoud-wrap -->
+        			</div>	<!-- contact info --> 
+        		 </footer>
+           </main>
+  </body>
+</html>
